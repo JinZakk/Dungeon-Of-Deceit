@@ -1,0 +1,18 @@
+#mainBackDrop{
+    -fx-background-image: url("dungeonBackDrop.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 520 480;
+    -fx-background-position: center center;
+}
+
+#instructionBackdrop{
+    -fx-background-image: url("howto.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 275 375;
+    -fx-background-position: center center;
+
+}
+
+
+
+
